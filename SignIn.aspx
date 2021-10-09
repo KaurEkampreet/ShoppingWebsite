@@ -103,6 +103,18 @@
                     </div>
                 </div>
 
+                <!--- forgot password -->
+                <div class ="form-group">
+                  <div class ="col-md-2"></div>
+                    <div class ="col-md-6">  
+                        <asp:HyperLink ID="HyForgotPass" runat="server" NavigateUrl="~/ForgotPassword.aspx">Forgot Password</asp:HyperLink>    
+                        
+                    </div>
+                </div>
+
+            </div>
+        </div>
+
 
                 <div class ="form-group">
                   <div class ="col-md-2"></div>
